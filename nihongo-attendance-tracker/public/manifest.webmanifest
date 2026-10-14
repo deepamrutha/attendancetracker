@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "Nihongo Attendance Tracker",
+  "short_name": "Nihongo Track",
+  "description": "Track Japanese class attendance and your 95% goal.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff4fa",
+  "theme_color": "#fff4fa",
+  "icons": [
+    { "src": "/sakura.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
